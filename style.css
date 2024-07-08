@@ -1,0 +1,68 @@
+body{
+    background: linear-gradient(360deg,black,#ee66cc,black);
+}
+#face{
+    background-color: #ddd12c;
+    height: 300px;
+    width: 300px;
+    border-bottom-right-radius: 75%;
+    border-bottom-left-radius: 75%;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    box-shadow: 5px 15px 100px rgb(255, 2, 2);
+    margin: auto;
+    margin-top: 12%;
+
+
+}
+#leye{
+    background-color: rgb(226, 46, 23);
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-top: 15px;
+    box-shadow: 10px 2px 2px black;
+    margin: auto;
+}
+#reye{
+    background-color: rgb(17, 190, 243);
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-top: 30px;
+    box-shadow: 10px 2px 2px black;
+    margin: auto;
+
+}
+#mouth{
+    background-color: white;
+    height: 30px;
+    width: 100px;
+    margin: auto;
+    margin-top: 60px;
+    border: 5px solid black;
+    box-shadow: 5px 2px 2px black;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+
+}
+#eye{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 89px;
+
+}
+#tongue{
+    background-color: rgb(250, 0, 0);
+    margin: auto;
+    height: 50px;
+    width: 35px;
+    margin-top: 25px;
+    box-shadow: 5px 5px 5px black;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
